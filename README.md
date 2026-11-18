@@ -1,2 +1,9 @@
 # staietechllp
-Staietech LLP offers digital signage, digital standees, LED displays and rental solutions for exhibitions, retail stores, corporate events and business promotions across India.
+Welcome to STAIE Tech!
+
+Visit our official website for useful information, articles, technology updates and educational resources.
+
+Website: [STAIE Tech](https://www.staietech.com)
+
+Explore our latest articles and resources on our website.
+
